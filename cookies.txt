@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.docs.google.com	TRUE	/forms/d/e/1FAIpQLSdi3cR24vUZMm0AMvFd_KJBEJ0O7wFpNKNPBArZWG1JzleDcg	FALSE	1999999999	S	spreadsheet_forms=hcpUzx_wIutDFYfpwha8VJ-gUreLtLfHd-CacOFcpuY
+.docs.google.com	TRUE	/forms/d/e/1FAIpQLSdi3cR24vUZMm0AMvFd_KJBEJ0O7wFpNKNPBArZWG1JzleDcg	FALSE	1999999999	COMPASS	spreadsheet_forms=CjIACWuJVzAK0i3Tash8lw0agsuYRshNd7SnFlcJRGIhPwUAZAXmFmFPFd4EmO1l9yClWRCJio27Bho0AAlriVfXFvhgGy-WqHuKcp5vItLYF1TOcowRHPnw8ddXl0xb7o8ckF8jcMU64uhyL_jMMg==
+.google.com	TRUE	/	FALSE	1999999999	NID	520=AAmiMEP0euKuoJHILH-xACh1CRARg-iDQwF9l5r4REa2A1qnzxSAnUGltGWzCu5FtNmQAngouGDWrFcQHjtypAofZT38TzOIRbQ4WJzkL6jiC-V96CwBsZGbARdUyb5bvfqUa3KPTKmx6BM7QOkmEG1AN0HIoEqyY2b1YiyAu3jDP5UpTGW-4He2
+docs.google.com	TRUE	/	FALSE	1999999999	SameSite	none
+.yandex.ru	TRUE	/	FALSE	1999999999	_yasc	TqeFD1AFNAz7lA/OSvMQZ9A8KjrpNm++ufnlyG36lDhaEfjhkn+v89QJo4Ml8T8ARXd+
+.yandex.ru	TRUE	/	FALSE	1999999999	i	MJg80EmrLNChCh0amjN0qgu8LMsokVcxt1zm4jxUdiVkaOdSVATOzQUgSNe4O54d5lET8hqJtSeiUebBBNBNa9O796A=
+.yandex.ru	TRUE	/	FALSE	1999999999	yandexuid	3447847691734556234
+.yandex.ru	TRUE	/	FALSE	1999999999	yashr	2894901341734556234
+.yandex.ru	TRUE	/	FALSE	1999999999	receive-cookie-deprecation	1
+yandex.ru	TRUE	/	FALSE	1999999999	SameSite	None
+.yandex.ru	TRUE	/	FALSE	1999999999	bh	YMr0jLsGag/s69e6D7udubEG1e+fzg4=
+
